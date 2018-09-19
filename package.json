@@ -20,7 +20,11 @@
   "homepage": "https://github.com/tipsi/tipsi-prometheus#readme",
   "dependencies": {
     "detox": "^9.0.1",
-    "tipsi-appium-helper": "^3.0.0"
+    "enzyme": "^3.6.0",
+    "jsdom-global": "^3.0.2",
+    "react": "^16.5.2",
+    "tipsi-appium-helper": "^3.0.0",
+    "webdriverio": "^4.13.2"
   },
   "devDependencies": {
     "tape-async": "^2.3.0"
