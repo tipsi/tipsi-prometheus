@@ -1,0 +1,28 @@
+{
+  "name": "tipsi-prometheus",
+  "version": "1.0.0",
+  "description": "Appium & Detox wrapper to run tests on both platforms",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tipsi/tipsi-prometheus.git"
+  },
+  "keywords": [
+    "appium",
+    "detox",
+    "tests"
+  ],
+  "author": "Tipsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tipsi/tipsi-prometheus/issues"
+  },
+  "homepage": "https://github.com/tipsi/tipsi-prometheus#readme",
+  "dependencies": {
+    "detox": "^9.0.1",
+    "tipsi-appium-helper": "^3.0.0"
+  },
+  "devDependencies": {
+    "tape-async": "^2.3.0"
+  }
+}
